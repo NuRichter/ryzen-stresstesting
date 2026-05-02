@@ -1,4 +1,4 @@
-# ryzen-socket-breach
+# ryzen-stresstesting
 
 push your 9600X until it taps out. or doesn't.
 
